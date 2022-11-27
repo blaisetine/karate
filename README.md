@@ -6,7 +6,7 @@ The operating system is MS DOS, so this is running under emulation.
 
 I was a big fan of Street Figher and wanted to build my own game.
 
-I was much harder thn I though :-(
+I was much harder than I though :-(
 
 I had to draw each pixel by hand, even the music was composed and encoded by hand.
 
