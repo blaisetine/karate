@@ -12,4 +12,4 @@ I had to draw everything by hand, even for the music I had to write the digital 
 
 <img src="karate.png" style="width:200px;"/>
 
-[click here to play!](https://blaisetine.github.io/karate]
+[click here to play!](https://blaisetine.github.io/karate)
