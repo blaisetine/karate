@@ -8,7 +8,7 @@ I was a big fan of street figher and wanted to build my own game.
 
 I was much harder thn I though :-(
 
-I had to draw everything by hand, even for the music I had to write the digital frequencies for each note by hand.
+I had to draw each pixel by hand, even the music was composed and encoded by hand.
 
 <img src="karate.png" style="width:200px;"/>
 
