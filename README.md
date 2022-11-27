@@ -4,7 +4,7 @@ My fighting game written in Pascal during childhood.
 
 The operating system is MS DOS, so this is running under emulation.
 
-I was a big fan of street figher and wanted to build my own game.
+I was a big fan of Street Figher and wanted to build my own game.
 
 I was much harder thn I though :-(
 
